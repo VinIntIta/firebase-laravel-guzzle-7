@@ -1,13 +1,13 @@
 {
-    "name": "kreait/laravel-firebase",
+    "name": "serega_mk/firebase-laravel-guzzle-7",
     "description": "A Laravel package for the Firebase PHP Admin SDK",
     "keywords": ["laravel", "firebase", "fcm", "gcm"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jérôme Gamez",
-            "email": "jerome@gamez.name"
+            "name": "Seregamk",
+            "homepage": "https://github.com/Seregamk"
         }
     ],
     "repositories": [
