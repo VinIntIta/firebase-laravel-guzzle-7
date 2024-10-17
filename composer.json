@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": "^7.2|^8.0",
-        "serega_mk/firebase-php-guzzle-7": "dev-main",
+        "serega_mk/firebase-php-guzzle-7": "^1.0.0",
         "illuminate/contracts": "^5.8|^6.0|^7.0|^8.0",
         "illuminate/support": "^5.8|^6.0|^7.0|^8.0"
     },
