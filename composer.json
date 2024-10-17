@@ -13,7 +13,8 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Seregamk/firebase-php-guzzle-7"
+            "url": "https://github.com/Seregamk/firebase-php-guzzle-7",
+            "minimum-stability": "dev"
         }
     ],
     "require": {
